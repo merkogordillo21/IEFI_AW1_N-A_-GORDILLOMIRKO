@@ -1,0 +1,7 @@
+{
+    "name": "cabanas-suyana",
+    "type": "module",
+    "scripts": {
+        "test": "node --test"
+    }
+}
